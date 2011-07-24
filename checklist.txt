@@ -1,0 +1,3 @@
+The Control Center should display "Swift Linux" instead of "antiX Linux".
+
+The Desktop tab should NOT display the button "Edit Fluxbox Settings".
